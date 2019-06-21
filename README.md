@@ -1,0 +1,2 @@
+# mindmajixdevops
+Git Training Project
